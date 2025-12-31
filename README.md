@@ -2,7 +2,7 @@
 
 A small ASP.NET Core Web API project demonstrating modern .NET fundamentals, clean architecture, dependency injection, and testing (unit + integration).
 
-This project is intentionally kept minimal to focus on correctness, structure, and best practices rather than features.
+I've intentionally kept this project minimal to focus on correctness, structure, and best practices rather than features.
 
 ---
 
@@ -34,9 +34,6 @@ dotnet-core-essentials/
 │ ├── NoteServiceTests.cs
 │ └── NotesControllerTests.cs
 └── README.md
-
-yaml
-Copy code
 
 ---
 
